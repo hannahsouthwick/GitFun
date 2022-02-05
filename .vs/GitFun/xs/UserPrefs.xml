@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{3A0BAE45-FAF5-42A7-BBE8-C86B3F77466C}|Default">
-  <MonoDevelop.Ide.ItemProperties.GitFun FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.GitFun FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GitFun/Program.cs">
+    <Files>
+      <File FileName="GitFun/Program.cs" Line="10" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GitFun" expanded="True">
+            <Node name="GitFun" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
